@@ -1,0 +1,2 @@
+Koval Vadim;MP7564365;2;800;approved;Car;111;
+Koval Vadim;MP8473763;4;200;no_considered;Car;112;
